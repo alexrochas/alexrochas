@@ -1,19 +1,13 @@
-### Guten Tag! 👋
+# Hi there! 👋
 
-- 🔭 I’m currently working on some personal projects to automate every aspect of my life (soon on visibility public)
+I'm [Alex](https://alexrocha.me) – a black belt in Karate and a passionate Software Developer. Originally hailing from the vibrant city of Porto Alegre, Brazil 🇧🇷, I now call the dynamic city of Berlin, Germany 🇩🇪 my home.
 
-- 💬 Ask me about anything, I love technology and I'm not afraid of say "I don't know, tell me more".
+My journey in the world of development began back in 2006, and what a journey it's been! I've had the pleasure of diving into a vast ocean of technologies, from JVM languages like Java, Kotlin, Scala, and Groovy to scripting marvels like Ruby and Python.
 
-- 🌱 I’m currently learning new hoobies!
-  * [Photohobbies](http://photohobbies.com/)
+But that's not all! Along the way, I've embraced and shared the transformative power of Test-Driven Development (TDD), Lean, Agile principles, and many more innovative methodologies. Whether learning or teaching, my goal has always been to push the boundaries of what's possible in the tech world.
 
-- 📫 How to reach me:
-  * [Twitter](https://twitter.com/alexsuzume)
-  * [Linkedin](https://www.linkedin.com/in/alexrochas/)
+Join me as I share my adventures, insights, and the relentless pursuit of excellence in both code and life!
 
-- ⚡ Fun fact: 
-  * I'm a Karate black belt
-  
 <!--
 **alexrochas/alexrochas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
